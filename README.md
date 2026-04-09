@@ -241,7 +241,6 @@ Core research hypothesis, MAD Protocol design, and I_d formula are **human-origi
 ## See also
 
 - [`SUBMISSION_NOTES.md`](SUBMISSION_NOTES.md) — Appendix B export (PDF/Word), push checklist.
-- [`STAGE3_READINESS.md`](STAGE3_READINESS.md) — Round 3 presentation storyboard and Q&A.
 
 ## License
 
